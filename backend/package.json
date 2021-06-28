@@ -7,17 +7,9 @@
     "dev": "nodemon ./server.js localhost 3081",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bbachi/nodejs-restapi-mongo.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bbachi/nodejs-restapi-mongo/issues"
-  },
-  "homepage": "https://github.com/bbachi/nodejs-restapi-mongo#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.6.0",
